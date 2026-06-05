@@ -1,0 +1,11 @@
+{
+  "name": "world-id-zk-governance-shield",
+  "version": "1.0.0",
+  "description": "Sybil-resistant one-person-one-vote governance portal using World ID ZKPs",
+  "main": "simulateGovernance.js",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "ethers": "^6.13.0",
+    "dotenv": "^16.4.5"
+  }
+}
